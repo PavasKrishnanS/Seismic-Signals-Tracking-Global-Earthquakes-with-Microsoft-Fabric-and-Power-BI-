@@ -13,6 +13,8 @@ This project analyzes real-time earthquake data using the USGS Earthquake API. B
 
 ---
 
+![generated-image](https://github.com/user-attachments/assets/186402ac-f85e-4321-a0a7-80c4be769a88)
+
 
 
 ## 🧱 Architecture Overview
