@@ -13,6 +13,8 @@ This project analyzes real-time earthquake data using the USGS Earthquake API. B
 
 ---
 
+
+
 ## 🧱 Architecture Overview
 
 ### 1. **Data Ingestion (Bronze Layer)**
@@ -41,10 +43,10 @@ This project analyzes real-time earthquake data using the USGS Earthquake API. B
 
 - **Date Range:** March 19, 2025 – April 4, 2025
 - **Reason for Focus:** Multiple high-magnitude earthquakes occurred in Myanmar and Thailand during this time. The project aims to bring awareness to regional seismic activity and its implications.
-- https://en.wikipedia.org/wiki/2025_Myanmar_earthquake
-- https://www.bbc.com/news/articles/crlxlxd7882o
+ https://en.wikipedia.org/wiki/2025_Myanmar_earthquake
+ https://www.bbc.com/news/articles/crlxlxd7882o
 
----
+
 
 ## 🔧 Tools & Technologies Used
 
@@ -56,7 +58,7 @@ This project analyzes real-time earthquake data using the USGS Earthquake API. B
 | Power BI        | Dashboard & Visualization           |
 | Reverse Geocoder| Geolocation enrichment              |
 
--
+
 ## 🚀 How to Run
 
 1. Clone the repository
